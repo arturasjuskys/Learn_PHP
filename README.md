@@ -11,3 +11,4 @@
 * Youtube: [Project: Save the Farm](https://www.youtube.com/watch?v=9WCPKz4E1yA)
 * Youtube: [Project: FizzBuzz](https://www.youtube.com/watch?v=Vw6ApXiDqdY)
 * Youtube: [Project: Repetetive Cofe](https://www.youtube.com/watch?v=iVP5qw69Z2s)
+* Youtube: [What are Classes and Objects?](https://www.youtube.com/watch?v=nVrQO2eVU7A&t=4s)
